@@ -12,6 +12,8 @@ Invoke the keyword to have Alfred simulate typing the clipboard contents (maximu
 
 Default typing speed is fast. Hold ⌥ to have Alfred type at medium speed, or ⌥⇧ for slow speed.
 
+[Alfred Forum thread](https://www.alfredforum.com/topic/21988-type-it-have-alfred-enter-text-without-pasting/)
+
 ## Credits
 
 Originally based on [this workflow](https://github.com/ramiroaraujo/alfred-type-clipboard-workflow), and updated with options and native Alfred functions.
