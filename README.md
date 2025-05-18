@@ -1,5 +1,12 @@
 # Type It - Alfred workflow
 
+## Note on updating to version 2+
+
+The bundleID has changed since version 1.x. Importing later versions than 3.x will create a new Alfred workflow instead of updating the previous one.
+
+Once you've imported the new version, delete the old version (check the version number beginning with `v` at the top of the main window). This also means that any changes you've made to the workflow's configuration will need to be redone.
+___
+
 Type the clipboard contents with options for typing speed. Useful for dialog boxes on some sites that disable pasting.
 
 ## Setup
